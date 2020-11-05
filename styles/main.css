@@ -25,11 +25,15 @@ body {
     font-size: 16px;
     color: var(--clr-black);
     min-height: 100vh;
+
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
 }
 
 /* Utilities */
 .container {
-    max-width: 1440px;
+    max-width: 921px;
     margin: 0 auto;
 }
 
