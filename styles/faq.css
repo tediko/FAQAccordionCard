@@ -1,8 +1,12 @@
 /* FAQ section */
+.faq {
+    margin: 0 50px;
+}
+
 .faq__container {
+    position: relative;
     background: var(--clr-white);
     border-radius: 20px;
-    position: relative;
 }
 
 .faq__wrapper {
