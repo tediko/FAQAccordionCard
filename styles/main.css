@@ -18,8 +18,10 @@
 }
 
 body {
+    background: linear-gradient(to bottom, var(--bg-violet) 0%, var(--bg-blue) 100%);
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 12px;
+    min-height: 100vh;
 }
 
 /* Utilities */
@@ -27,3 +29,4 @@ body {
     max-width: 1440px;
     margin: 0 auto;
 }
+
