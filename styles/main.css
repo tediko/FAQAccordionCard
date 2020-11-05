@@ -1,2 +1,29 @@
-.attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+/* Variables */
+:root {
+    --clr-blue: hsl(238, 29%, 16%);
+    --clr-red: hsl(14, 88%, 65%);
+    --clr-dark-grayish-blue: hsl(237, 12%, 33%);
+    --clr-grayish-blue: hsl(240, 6%, 50%);
+    --bg-violet: hsl(273, 75%, 66%);
+    --bg-blue: hsl(240, 73%, 65%);
+    --sep-blue: hsl(240, 5%, 91%);
+}
+/* Global styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 12px;
+}
+
+/* Utilities */
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
