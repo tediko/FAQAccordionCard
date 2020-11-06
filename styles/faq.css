@@ -58,6 +58,7 @@
     top: 233px;
     left: -120px;
     z-index: 2;
+    animation: boxSlide 2000ms infinite alternate;
 }
 
 .faq__content {
