@@ -191,6 +191,10 @@
         margin: 125px 25px 125px 25px;
     }
 
+    .faq__heading {
+        margin: 30px 0 20px 0;
+    }
+
     .faq__query {
         font-size: 0.8rem;
     }
