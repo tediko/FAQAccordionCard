@@ -3,6 +3,7 @@
 ![Design preview for the FAQ Accordion Card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
+[LIVE PREVIEW](https://faqaccordioncard-tediko.netlify.app/)
 
 Thanks for checking out this front-end coding challenge.
 
