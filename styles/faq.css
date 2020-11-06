@@ -86,7 +86,7 @@
     display: none;
 }
 
-label {
+.faq__label {
     display: block;
     padding: 15px 0;
     cursor: pointer;
