@@ -36,3 +36,16 @@ body {
     margin: 0 auto;
 }
 
+/* Animations */
+@keyframes boxSlide {
+    0% {
+        opacity: 1;
+        transform: translateY(0px);
+    }
+
+    100% {
+        opacity: 0.8;
+        transform: translateY(20px);
+    }
+}
+
